@@ -1,0 +1,95 @@
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Negocios\bin\Debug\Negocios.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Negocios\bin\Debug\AccesoDatos.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Negocios\bin\Debug\Entitidades.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Negocios\bin\Debug\Nucleo.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Negocios\bin\Debug\Dapper.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Negocios\bin\Debug\AccesoDatos.pdb
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Negocios\bin\Debug\Entitidades.pdb
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Negocios\bin\Debug\Nucleo.pdb
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Negocios\bin\Debug\Dapper.xml
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Negocios\obj\Debug\Negocios.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Negocios\bin\Debug\Ninject.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Negocios\bin\Debug\Ninject.xml
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Negocios\bin\Debug\DapperExtensions.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Negocios\bin\Debug\DapperExtensions.pdb
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Negocios\bin\Debug\Negocios.dll.config
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Negocios\bin\Debug\EntityFramework.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Negocios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Negocios\bin\Debug\LinqKit.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Negocios\bin\Debug\EntityFramework.xml
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Negocios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Negocios\bin\Debug\LinqKit.xml
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Negocios\obj\Debug\Negocios.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Negocios\obj\Debug\Negocios.pdb
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Negocios\bin\Debug\Negocios.dll.config
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Negocios\bin\Debug\Negocios.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Negocios\bin\Debug\Negocios.pdb
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Negocios\bin\Debug\AccesoDatos.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Negocios\bin\Debug\Entitidades.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Negocios\bin\Debug\EntityFramework.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Negocios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Negocios\bin\Debug\LinqKit.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Negocios\bin\Debug\Ninject.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Negocios\bin\Debug\Nucleo.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Negocios\bin\Debug\AccesoDatos.pdb
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Negocios\bin\Debug\Entitidades.pdb
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Negocios\bin\Debug\Nucleo.pdb
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Negocios\bin\Debug\EntityFramework.xml
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Negocios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Negocios\bin\Debug\LinqKit.xml
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Negocios\bin\Debug\Ninject.xml
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Negocios\bin\Debug\Negocios.dll.config
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Negocios\bin\Debug\Negocios.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Negocios\bin\Debug\Negocios.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Negocios\bin\Debug\AccesoDatos.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Negocios\bin\Debug\Entitidades.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Negocios\bin\Debug\EntityFramework.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Negocios\bin\Debug\EntityFramework.SqlServer.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Negocios\bin\Debug\LinqKit.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Negocios\bin\Debug\Ninject.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Negocios\bin\Debug\Nucleo.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Negocios\bin\Debug\AccesoDatos.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Negocios\bin\Debug\Entitidades.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Negocios\bin\Debug\Nucleo.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Negocios\bin\Debug\EntityFramework.xml
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Negocios\bin\Debug\EntityFramework.SqlServer.xml
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Negocios\bin\Debug\LinqKit.xml
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Negocios\bin\Debug\Ninject.xml
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Negocios\obj\Debug\Negocios.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Negocios\obj\Debug\Negocios.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Negocios\bin\Debug\DapperExtensions.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Negocios\bin\Debug\Dapper.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Negocios\bin\Debug\DapperExtensions.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Negocios\bin\Debug\Dapper.xml
+E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\Negocios.dll.config
+E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\Negocios.dll
+E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\Negocios.pdb
+E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\AccesoDatos.dll
+E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\Entitidades.dll
+E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\EntityFramework.dll
+E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\EntityFramework.SqlServer.dll
+E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\LinqKit.dll
+E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\Ninject.dll
+E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\Nucleo.dll
+E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\DapperExtensions.dll
+E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\Dapper.dll
+E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\AccesoDatos.pdb
+E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\Entitidades.pdb
+E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\Nucleo.pdb
+E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\EntityFramework.xml
+E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\EntityFramework.SqlServer.xml
+E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\LinqKit.xml
+E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\Ninject.xml
+E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\DapperExtensions.pdb
+E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\Dapper.xml
+E:\2_dam\Interfaces\GameOverStore\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+E:\2_dam\Interfaces\GameOverStore\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+E:\2_dam\Interfaces\GameOverStore\Negocios\obj\Debug\Negocios.dll
+E:\2_dam\Interfaces\GameOverStore\Negocios\obj\Debug\Negocios.pdb

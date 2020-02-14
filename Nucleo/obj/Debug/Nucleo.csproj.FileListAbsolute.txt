@@ -1,0 +1,39 @@
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Nucleo\bin\Debug\Nucleo.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Nucleo\bin\Debug\Nucleo.pdb
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Nucleo\bin\Debug\Dapper.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Nucleo\bin\Debug\Dapper.xml
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Nucleo\obj\Debug\Nucleo.csprojAssemblyReference.cache
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Nucleo\obj\Debug\Nucleo.csproj.CoreCompileInputs.cache
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Nucleo\obj\Debug\Nucleo.csproj.CopyComplete
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Nucleo\obj\Debug\Nucleo.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Nucleo\obj\Debug\Nucleo.pdb
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Nucleo\bin\Debug\DapperExtensions.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Nucleo\bin\Debug\DapperExtensions.pdb
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Nucleo\obj\Debug\Nucleo.csprojResolveAssemblyReference.cache
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Nucleo\obj\Debug\Nucleo.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Nucleo\obj\Debug\Nucleo.pdb
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Nucleo\bin\Debug\Nucleo.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Nucleo\bin\Debug\Nucleo.pdb
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Nucleo\bin\Debug\Dapper.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Nucleo\bin\Debug\DapperExtensions.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Nucleo\bin\Debug\Dapper.pdb
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Nucleo\bin\Debug\DapperExtensions.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Nucleo\bin\Debug\Nucleo.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Nucleo\bin\Debug\Nucleo.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Nucleo\bin\Debug\Dapper.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Nucleo\bin\Debug\DapperExtensions.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Nucleo\bin\Debug\DapperExtensions.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Nucleo\obj\Debug\Nucleo.csprojResolveAssemblyReference.cache
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Nucleo\obj\Debug\Nucleo.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Nucleo\obj\Debug\Nucleo.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Nucleo\bin\Debug\Dapper.xml
+E:\2_dam\Interfaces\GameOverStore\Nucleo\bin\Debug\Nucleo.dll
+E:\2_dam\Interfaces\GameOverStore\Nucleo\bin\Debug\Nucleo.pdb
+E:\2_dam\Interfaces\GameOverStore\Nucleo\bin\Debug\Dapper.dll
+E:\2_dam\Interfaces\GameOverStore\Nucleo\bin\Debug\DapperExtensions.dll
+E:\2_dam\Interfaces\GameOverStore\Nucleo\bin\Debug\Dapper.xml
+E:\2_dam\Interfaces\GameOverStore\Nucleo\bin\Debug\DapperExtensions.pdb
+E:\2_dam\Interfaces\GameOverStore\Nucleo\obj\Debug\Nucleo.csprojAssemblyReference.cache
+E:\2_dam\Interfaces\GameOverStore\Nucleo\obj\Debug\Nucleo.csproj.CopyComplete
+E:\2_dam\Interfaces\GameOverStore\Nucleo\obj\Debug\Nucleo.dll
+E:\2_dam\Interfaces\GameOverStore\Nucleo\obj\Debug\Nucleo.pdb

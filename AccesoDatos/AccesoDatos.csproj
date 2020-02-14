@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CD460FA0-7D33-441B-8A31-1E2A5E549F7B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AccesoDatos</RootNamespace>
+    <AssemblyName>AccesoDatos</AssemblyName>
+    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Dapper, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Dapper.2.0.30\lib\net461\Dapper.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DapperExtensions, Version=1.6.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\DapperExtensions.1.6.3\lib\net45\DapperExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Abstractas\ACompuestas\IPedidosDal.cs" />
+    <Compile Include="Abstractas\ACompuestas\IProductosDal.cs" />
+    <Compile Include="Abstractas\ACompuestas\IReservasDal.cs" />
+    <Compile Include="Abstractas\ACompuestas\IDevolucionesDal.cs" />
+    <Compile Include="Abstractas\ALineas\ILineaPedidosDal.cs" />
+    <Compile Include="Abstractas\ALineas\ILineaVentasDal.cs" />
+    <Compile Include="Abstractas\ASimples\IClasificacionesDal.cs" />
+    <Compile Include="Abstractas\ASimples\IDesarrolladorasDal.cs" />
+    <Compile Include="Abstractas\ASimples\IGenerosDal.cs" />
+    <Compile Include="Abstractas\ASimples\IIdiomasDal.cs" />
+    <Compile Include="Abstractas\ASimples\IPlataformasDal.cs" />
+    <Compile Include="Abstractas\AUsuario\IPermisosDal.cs" />
+    <Compile Include="Abstractas\AUsuario\IPersonasDal.cs" />
+    <Compile Include="Abstractas\AUsuario\ISociosDal.cs" />
+    <Compile Include="Abstractas\AUsuario\IUsuarioDal.cs" />
+    <Compile Include="Abstractas\ACompuestas\IVentasDal.cs" />
+    <Compile Include="Concretas\Dapper\Compuestas\DapDevolucionesDal.cs" />
+    <Compile Include="Concretas\Dapper\Compuestas\DapPedidosDal.cs" />
+    <Compile Include="Concretas\Dapper\Compuestas\DapProductosDal.cs" />
+    <Compile Include="Concretas\Dapper\Compuestas\DapReservasDal.cs" />
+    <Compile Include="Concretas\Dapper\Compuestas\DapVentasDal.cs" />
+    <Compile Include="Concretas\Dapper\DapperContexto.cs" />
+    <Compile Include="Concretas\Dapper\Lineas\DapLineaPedidosDal.cs" />
+    <Compile Include="Concretas\Dapper\Lineas\DapLineaVentasDal.cs" />
+    <Compile Include="Concretas\Dapper\Simples\DapClasificacionesDal.cs" />
+    <Compile Include="Concretas\Dapper\Simples\DapDesarrolladorasDal.cs" />
+    <Compile Include="Concretas\Dapper\Simples\DapGenerosDal.cs" />
+    <Compile Include="Concretas\Dapper\Simples\DapIdiomasDal.cs" />
+    <Compile Include="Concretas\Dapper\Simples\DapPlataformasDal.cs" />
+    <Compile Include="Concretas\Dapper\Usuario\DapPermisosDal.cs" />
+    <Compile Include="Concretas\Dapper\Usuario\DapPersonasDal.cs" />
+    <Compile Include="Concretas\Dapper\Usuario\DapSociosDal.cs" />
+    <Compile Include="Concretas\Dapper\Usuario\DapUsuarioDal.cs" />
+    <Compile Include="Concretas\File\FileContexto.cs" />
+    <Compile Include="Concretas\File\FileSociosDal.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entitidades\Entidades.csproj">
+      <Project>{2f552895-df81-4a41-a56d-a3c6f7d71186}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Nucleo\Nucleo.csproj">
+      <Project>{f176aff7-d247-4e54-9f1b-5c620f6f1e2b}</Project>
+      <Name>Nucleo</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

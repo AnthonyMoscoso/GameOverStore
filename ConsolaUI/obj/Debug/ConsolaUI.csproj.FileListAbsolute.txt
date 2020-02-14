@@ -1,0 +1,101 @@
+C:\Users\Gerardo\source\repos\EjemploAplicacion\ConsolaUI\bin\Debug\Database.mdf
+C:\Users\Gerardo\source\repos\EjemploAplicacion\ConsolaUI\bin\Debug\Database_log.ldf
+C:\Users\Gerardo\source\repos\EjemploAplicacion\ConsolaUI\bin\Debug\ConsolaUI.exe.config
+C:\Users\Gerardo\source\repos\EjemploAplicacion\ConsolaUI\bin\Debug\ConsolaUI.exe
+C:\Users\Gerardo\source\repos\EjemploAplicacion\ConsolaUI\bin\Debug\ConsolaUI.pdb
+C:\Users\Gerardo\source\repos\EjemploAplicacion\ConsolaUI\obj\Debug\ConsolaUI.csprojAssemblyReference.cache
+C:\Users\Gerardo\source\repos\EjemploAplicacion\ConsolaUI\obj\Debug\ConsolaUI.csproj.CoreCompileInputs.cache
+C:\Users\Gerardo\source\repos\EjemploAplicacion\ConsolaUI\obj\Debug\ConsolaUI.exe
+C:\Users\Gerardo\source\repos\EjemploAplicacion\ConsolaUI\obj\Debug\ConsolaUI.pdb
+C:\Users\Gerardo\source\repos\EjemploAplicacion\ConsolaUI\bin\Debug\Entitidades.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\ConsolaUI\bin\Debug\Negocios.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\ConsolaUI\bin\Debug\Ninject.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\ConsolaUI\bin\Debug\Nucleo.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\ConsolaUI\bin\Debug\AccesoDatos.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\ConsolaUI\bin\Debug\Dapper.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\ConsolaUI\bin\Debug\Entitidades.pdb
+C:\Users\Gerardo\source\repos\EjemploAplicacion\ConsolaUI\bin\Debug\Negocios.pdb
+C:\Users\Gerardo\source\repos\EjemploAplicacion\ConsolaUI\bin\Debug\Nucleo.pdb
+C:\Users\Gerardo\source\repos\EjemploAplicacion\ConsolaUI\bin\Debug\Ninject.xml
+C:\Users\Gerardo\source\repos\EjemploAplicacion\ConsolaUI\bin\Debug\AccesoDatos.pdb
+C:\Users\Gerardo\source\repos\EjemploAplicacion\ConsolaUI\bin\Debug\Dapper.xml
+C:\Users\Gerardo\source\repos\EjemploAplicacion\ConsolaUI\obj\Debug\ConsolaUI.csproj.CopyComplete
+C:\Users\Gerardo\source\repos\EjemploAplicacion\ConsolaUI\bin\Debug\DapperExtensions.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\ConsolaUI\bin\Debug\DapperExtensions.pdb
+C:\Users\Gerardo\source\repos\EjemploAplicacion\ConsolaUI\bin\Debug\LinqKit.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\ConsolaUI\bin\Debug\EntityFramework.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\ConsolaUI\bin\Debug\Negocios.dll.config
+C:\Users\Gerardo\source\repos\EjemploAplicacion\ConsolaUI\bin\Debug\LinqKit.xml
+C:\Users\Gerardo\source\repos\EjemploAplicacion\ConsolaUI\bin\Debug\EntityFramework.xml
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\ConsolaUI\obj\Debug\ConsolaUI.csprojResolveAssemblyReference.cache
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\ConsolaUI\obj\Debug\ConsolaUI.exe
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\ConsolaUI\obj\Debug\ConsolaUI.pdb
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\ConsolaUI\bin\Debug\Database.mdf
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\ConsolaUI\bin\Debug\Database_log.ldf
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\ConsolaUI\bin\Debug\ConsolaUI.exe.config
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\ConsolaUI\bin\Debug\ConsolaUI.exe
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\ConsolaUI\bin\Debug\ConsolaUI.pdb
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\ConsolaUI\bin\Debug\Entitidades.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\ConsolaUI\bin\Debug\Negocios.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\ConsolaUI\bin\Debug\Ninject.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\ConsolaUI\bin\Debug\Nucleo.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\ConsolaUI\bin\Debug\AccesoDatos.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\ConsolaUI\bin\Debug\LinqKit.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\ConsolaUI\bin\Debug\EntityFramework.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\ConsolaUI\bin\Debug\Entitidades.pdb
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\ConsolaUI\bin\Debug\Negocios.pdb
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\ConsolaUI\bin\Debug\Nucleo.pdb
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\ConsolaUI\bin\Debug\Ninject.xml
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\ConsolaUI\bin\Debug\AccesoDatos.pdb
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\ConsolaUI\bin\Debug\LinqKit.xml
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\ConsolaUI\bin\Debug\EntityFramework.xml
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\ConsolaUI\bin\Debug\Database.mdf
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\ConsolaUI\bin\Debug\Database_log.ldf
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\ConsolaUI\bin\Debug\ConsolaUI.exe.config
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\ConsolaUI\bin\Debug\ConsolaUI.exe
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\ConsolaUI\bin\Debug\ConsolaUI.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\ConsolaUI\bin\Debug\Entitidades.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\ConsolaUI\bin\Debug\Negocios.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\ConsolaUI\bin\Debug\Ninject.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\ConsolaUI\bin\Debug\Nucleo.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\ConsolaUI\bin\Debug\AccesoDatos.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\ConsolaUI\bin\Debug\LinqKit.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\ConsolaUI\bin\Debug\EntityFramework.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\ConsolaUI\bin\Debug\Entitidades.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\ConsolaUI\bin\Debug\Negocios.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\ConsolaUI\bin\Debug\Nucleo.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\ConsolaUI\bin\Debug\Ninject.xml
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\ConsolaUI\bin\Debug\AccesoDatos.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\ConsolaUI\bin\Debug\LinqKit.xml
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\ConsolaUI\bin\Debug\EntityFramework.xml
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\ConsolaUI\obj\Debug\ConsolaUI.csprojResolveAssemblyReference.cache
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\ConsolaUI\obj\Debug\ConsolaUI.exe
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\ConsolaUI\obj\Debug\ConsolaUI.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\ConsolaUI\bin\Debug\DapperExtensions.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\ConsolaUI\bin\Debug\Dapper.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\ConsolaUI\bin\Debug\DapperExtensions.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\ConsolaUI\bin\Debug\Dapper.xml
+E:\2_dam\Interfaces\GameOverStore\ConsolaUI\bin\Debug\Database.mdf
+E:\2_dam\Interfaces\GameOverStore\ConsolaUI\bin\Debug\Database_log.ldf
+E:\2_dam\Interfaces\GameOverStore\ConsolaUI\bin\Debug\ConsolaUI.exe.config
+E:\2_dam\Interfaces\GameOverStore\ConsolaUI\bin\Debug\ConsolaUI.exe
+E:\2_dam\Interfaces\GameOverStore\ConsolaUI\bin\Debug\ConsolaUI.pdb
+E:\2_dam\Interfaces\GameOverStore\ConsolaUI\bin\Debug\Entitidades.dll
+E:\2_dam\Interfaces\GameOverStore\ConsolaUI\bin\Debug\Negocios.dll
+E:\2_dam\Interfaces\GameOverStore\ConsolaUI\bin\Debug\Ninject.dll
+E:\2_dam\Interfaces\GameOverStore\ConsolaUI\bin\Debug\Nucleo.dll
+E:\2_dam\Interfaces\GameOverStore\ConsolaUI\bin\Debug\AccesoDatos.dll
+E:\2_dam\Interfaces\GameOverStore\ConsolaUI\bin\Debug\DapperExtensions.dll
+E:\2_dam\Interfaces\GameOverStore\ConsolaUI\bin\Debug\Dapper.dll
+E:\2_dam\Interfaces\GameOverStore\ConsolaUI\bin\Debug\Entitidades.pdb
+E:\2_dam\Interfaces\GameOverStore\ConsolaUI\bin\Debug\Negocios.pdb
+E:\2_dam\Interfaces\GameOverStore\ConsolaUI\bin\Debug\Negocios.dll.config
+E:\2_dam\Interfaces\GameOverStore\ConsolaUI\bin\Debug\Nucleo.pdb
+E:\2_dam\Interfaces\GameOverStore\ConsolaUI\bin\Debug\Ninject.xml
+E:\2_dam\Interfaces\GameOverStore\ConsolaUI\bin\Debug\AccesoDatos.pdb
+E:\2_dam\Interfaces\GameOverStore\ConsolaUI\bin\Debug\DapperExtensions.pdb
+E:\2_dam\Interfaces\GameOverStore\ConsolaUI\bin\Debug\Dapper.xml
+E:\2_dam\Interfaces\GameOverStore\ConsolaUI\obj\Debug\ConsolaUI.csprojAssemblyReference.cache
+E:\2_dam\Interfaces\GameOverStore\ConsolaUI\obj\Debug\ConsolaUI.csproj.CopyComplete
+E:\2_dam\Interfaces\GameOverStore\ConsolaUI\obj\Debug\ConsolaUI.exe
+E:\2_dam\Interfaces\GameOverStore\ConsolaUI\obj\Debug\ConsolaUI.pdb

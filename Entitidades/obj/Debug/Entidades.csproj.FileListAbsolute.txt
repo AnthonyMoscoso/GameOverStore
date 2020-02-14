@@ -1,0 +1,12 @@
+E:\2_dam\Interfaces\GameOverStore\Entitidades\bin\Debug\Entitidades.dll
+E:\2_dam\Interfaces\GameOverStore\Entitidades\bin\Debug\Entitidades.pdb
+E:\2_dam\Interfaces\GameOverStore\Entitidades\bin\Debug\Nucleo.dll
+E:\2_dam\Interfaces\GameOverStore\Entitidades\bin\Debug\DapperExtensions.dll
+E:\2_dam\Interfaces\GameOverStore\Entitidades\bin\Debug\Dapper.dll
+E:\2_dam\Interfaces\GameOverStore\Entitidades\bin\Debug\Nucleo.pdb
+E:\2_dam\Interfaces\GameOverStore\Entitidades\bin\Debug\DapperExtensions.pdb
+E:\2_dam\Interfaces\GameOverStore\Entitidades\bin\Debug\Dapper.xml
+E:\2_dam\Interfaces\GameOverStore\Entitidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\2_dam\Interfaces\GameOverStore\Entitidades\obj\Debug\Entidades.csproj.CopyComplete
+E:\2_dam\Interfaces\GameOverStore\Entitidades\obj\Debug\Entitidades.dll
+E:\2_dam\Interfaces\GameOverStore\Entitidades\obj\Debug\Entitidades.pdb

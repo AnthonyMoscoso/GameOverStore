@@ -1,0 +1,51 @@
+C:\Users\Gerardo\source\repos\EjemploAplicacion\AccesoDatos\obj\Debug\AccesoDatos.csprojAssemblyReference.cache
+C:\Users\Gerardo\source\repos\EjemploAplicacion\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Gerardo\source\repos\EjemploAplicacion\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\Gerardo\source\repos\EjemploAplicacion\AccesoDatos\bin\Debug\Entitidades.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\AccesoDatos\bin\Debug\Nucleo.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\AccesoDatos\bin\Debug\Dapper.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\AccesoDatos\bin\Debug\Entitidades.pdb
+C:\Users\Gerardo\source\repos\EjemploAplicacion\AccesoDatos\bin\Debug\Nucleo.pdb
+C:\Users\Gerardo\source\repos\EjemploAplicacion\AccesoDatos\bin\Debug\Dapper.xml
+C:\Users\Gerardo\source\repos\EjemploAplicacion\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+C:\Users\Gerardo\source\repos\EjemploAplicacion\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\Gerardo\source\repos\EjemploAplicacion\AccesoDatos\bin\Debug\DapperExtensions.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\AccesoDatos\bin\Debug\DapperExtensions.pdb
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\AccesoDatos\obj\Debug\AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\AccesoDatos\bin\Debug\Entitidades.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\AccesoDatos\bin\Debug\Nucleo.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\AccesoDatos\bin\Debug\Entitidades.pdb
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\AccesoDatos\bin\Debug\Nucleo.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\AccesoDatos\obj\Debug\AccesoDatos.csprojResolveAssemblyReference.cache
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\AccesoDatos\obj\Debug\AccesoDatos.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\AccesoDatos\obj\Debug\AccesoDatos.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\AccesoDatos\bin\Debug\AccesoDatos.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\AccesoDatos\bin\Debug\AccesoDatos.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\AccesoDatos\bin\Debug\Dapper.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\AccesoDatos\bin\Debug\Entitidades.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\AccesoDatos\bin\Debug\Nucleo.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\AccesoDatos\bin\Debug\DapperExtensions.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\AccesoDatos\bin\Debug\Entitidades.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\AccesoDatos\bin\Debug\Nucleo.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\AccesoDatos\bin\Debug\Dapper.xml
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\AccesoDatos\bin\Debug\DapperExtensions.pdb
+E:\2_dam\Interfaces\GameOverStore\AccesoDatos\bin\Debug\AccesoDatos.dll
+E:\2_dam\Interfaces\GameOverStore\AccesoDatos\bin\Debug\AccesoDatos.pdb
+E:\2_dam\Interfaces\GameOverStore\AccesoDatos\bin\Debug\Dapper.dll
+E:\2_dam\Interfaces\GameOverStore\AccesoDatos\bin\Debug\Entitidades.dll
+E:\2_dam\Interfaces\GameOverStore\AccesoDatos\bin\Debug\Nucleo.dll
+E:\2_dam\Interfaces\GameOverStore\AccesoDatos\bin\Debug\DapperExtensions.dll
+E:\2_dam\Interfaces\GameOverStore\AccesoDatos\bin\Debug\Entitidades.pdb
+E:\2_dam\Interfaces\GameOverStore\AccesoDatos\bin\Debug\Nucleo.pdb
+E:\2_dam\Interfaces\GameOverStore\AccesoDatos\bin\Debug\Dapper.xml
+E:\2_dam\Interfaces\GameOverStore\AccesoDatos\bin\Debug\DapperExtensions.pdb
+E:\2_dam\Interfaces\GameOverStore\AccesoDatos\obj\Debug\AccesoDatos.csprojAssemblyReference.cache
+E:\2_dam\Interfaces\GameOverStore\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+E:\2_dam\Interfaces\GameOverStore\AccesoDatos\obj\Debug\AccesoDatos.dll
+E:\2_dam\Interfaces\GameOverStore\AccesoDatos\obj\Debug\AccesoDatos.pdb

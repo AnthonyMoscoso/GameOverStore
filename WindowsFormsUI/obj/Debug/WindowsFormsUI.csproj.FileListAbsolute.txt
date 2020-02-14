@@ -1,0 +1,125 @@
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\obj\Debug\WindowsFormsUI.csprojAssemblyReference.cache
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\obj\Debug\WindowsFormsUI.Form1.resources
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\obj\Debug\WindowsFormsUI.Properties.Resources.resources
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\obj\Debug\WindowsFormsUI.csproj.GenerateResource.cache
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\obj\Debug\WindowsFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\bin\Debug\WindowsFormsUI.exe.config
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\bin\Debug\WindowsFormsUI.exe
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\bin\Debug\WindowsFormsUI.pdb
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\bin\Debug\AccesoDatos.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\bin\Debug\Entitidades.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\bin\Debug\Negocios.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\bin\Debug\Ninject.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\bin\Debug\Nucleo.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\bin\Debug\Dapper.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\bin\Debug\AccesoDatos.pdb
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\bin\Debug\Entitidades.pdb
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\bin\Debug\Negocios.pdb
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\bin\Debug\Nucleo.pdb
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\bin\Debug\Ninject.xml
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\bin\Debug\Dapper.xml
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\obj\Debug\WindowsFormsUI.csproj.CopyComplete
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\obj\Debug\WindowsFormsUI.exe
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\obj\Debug\WindowsFormsUI.pdb
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\obj\Debug\WindowsFormsUI.Form2.resources
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\bin\Debug\DapperExtensions.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\bin\Debug\DapperExtensions.pdb
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\bin\Debug\LinqKit.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\bin\Debug\EntityFramework.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\bin\Debug\Negocios.dll.config
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\bin\Debug\LinqKit.xml
+C:\Users\Gerardo\source\repos\EjemploAplicacion\WindowsFormsUI\bin\Debug\EntityFramework.xml
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\WindowsFormsUI\obj\Debug\WindowsFormsUI.csprojResolveAssemblyReference.cache
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\WindowsFormsUI\obj\Debug\WindowsFormsUI.Form2.resources
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\WindowsFormsUI\obj\Debug\WindowsFormsUI.Form1.resources
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\WindowsFormsUI\obj\Debug\WindowsFormsUI.Properties.Resources.resources
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\WindowsFormsUI\obj\Debug\WindowsFormsUI.csproj.GenerateResource.Cache
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\WindowsFormsUI\obj\Debug\WindowsFormsUI.exe
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\WindowsFormsUI\obj\Debug\WindowsFormsUI.pdb
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\WindowsFormsUI\bin\Debug\WindowsFormsUI.exe.config
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\WindowsFormsUI\bin\Debug\WindowsFormsUI.exe
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\WindowsFormsUI\bin\Debug\WindowsFormsUI.pdb
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\WindowsFormsUI\bin\Debug\Entitidades.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\WindowsFormsUI\bin\Debug\Negocios.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\WindowsFormsUI\bin\Debug\Ninject.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\WindowsFormsUI\bin\Debug\Nucleo.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\WindowsFormsUI\bin\Debug\AccesoDatos.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\WindowsFormsUI\bin\Debug\LinqKit.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\WindowsFormsUI\bin\Debug\EntityFramework.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\WindowsFormsUI\bin\Debug\Entitidades.pdb
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\WindowsFormsUI\bin\Debug\Negocios.pdb
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\WindowsFormsUI\bin\Debug\Nucleo.pdb
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\WindowsFormsUI\bin\Debug\Ninject.xml
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\WindowsFormsUI\bin\Debug\AccesoDatos.pdb
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\WindowsFormsUI\bin\Debug\LinqKit.xml
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\WindowsFormsUI\bin\Debug\EntityFramework.xml
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\WindowsFormsUI\bin\Debug\WindowsFormsUI.exe.config
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\WindowsFormsUI\bin\Debug\WindowsFormsUI.exe
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\WindowsFormsUI\bin\Debug\WindowsFormsUI.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\WindowsFormsUI\bin\Debug\Entitidades.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\WindowsFormsUI\bin\Debug\Negocios.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\WindowsFormsUI\bin\Debug\Ninject.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\WindowsFormsUI\bin\Debug\Nucleo.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\WindowsFormsUI\bin\Debug\AccesoDatos.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\WindowsFormsUI\bin\Debug\LinqKit.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\WindowsFormsUI\bin\Debug\EntityFramework.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\WindowsFormsUI\bin\Debug\Entitidades.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\WindowsFormsUI\bin\Debug\Negocios.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\WindowsFormsUI\bin\Debug\Nucleo.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\WindowsFormsUI\bin\Debug\Ninject.xml
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\WindowsFormsUI\bin\Debug\AccesoDatos.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\WindowsFormsUI\bin\Debug\LinqKit.xml
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\WindowsFormsUI\bin\Debug\EntityFramework.xml
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\WindowsFormsUI\obj\Debug\WindowsFormsUI.csprojResolveAssemblyReference.cache
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\WindowsFormsUI\obj\Debug\WindowsFormsUI.Form2.resources
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\WindowsFormsUI\obj\Debug\WindowsFormsUI.Form1.resources
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\WindowsFormsUI\obj\Debug\WindowsFormsUI.Properties.Resources.resources
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\WindowsFormsUI\obj\Debug\WindowsFormsUI.csproj.GenerateResource.Cache
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\WindowsFormsUI\obj\Debug\WindowsFormsUI.exe
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\WindowsFormsUI\obj\Debug\WindowsFormsUI.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\WindowsFormsUI\bin\Debug\DapperExtensions.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\WindowsFormsUI\bin\Debug\Dapper.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\WindowsFormsUI\bin\Debug\DapperExtensions.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\WindowsFormsUI\bin\Debug\Dapper.xml
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\bin\Debug\WindowsFormsUI.exe.config
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\bin\Debug\WindowsFormsUI.exe
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\bin\Debug\WindowsFormsUI.pdb
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\bin\Debug\Entitidades.dll
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\bin\Debug\Negocios.dll
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\bin\Debug\Nucleo.dll
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\bin\Debug\AccesoDatos.dll
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\bin\Debug\DapperExtensions.dll
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\bin\Debug\Dapper.dll
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\bin\Debug\Entitidades.pdb
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\bin\Debug\Negocios.pdb
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\bin\Debug\Negocios.dll.config
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\bin\Debug\Nucleo.pdb
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\bin\Debug\AccesoDatos.pdb
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\bin\Debug\DapperExtensions.pdb
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\bin\Debug\Dapper.xml
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\obj\Debug\WindowsFormsUI.csprojAssemblyReference.cache
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\obj\Debug\WindowsFormsUI.Form2.resources
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\obj\Debug\WindowsFormsUI.Form1.resources
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\obj\Debug\WindowsFormsUI.Properties.Resources.resources
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\obj\Debug\WindowsFormsUI.csproj.GenerateResource.cache
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\obj\Debug\WindowsFormsUI.csproj.CopyComplete
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\obj\Debug\WindowsFormsUI.exe
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\obj\Debug\WindowsFormsUI.pdb
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\obj\Debug\WindowsFormsUI.Controladores.ProductoAdapterControl.resources
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\obj\Debug\WindowsFormsUI.Controladores.ProductosCardControl.resources
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\obj\Debug\WindowsFormsUI.Ventanas.VentanaInventario.resources
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\obj\Debug\WindowsFormsUI.Ventanas.VentanaPrincipal.resources
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\obj\Debug\Interop.ShockwaveFlashObjects.dll
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\obj\Debug\WindowsFormsUI.csproj.ResolveComReference.cache
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\obj\Debug\WindowsFormsUI.VentanaInsertarProducto.resources
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\obj\Debug\WindowsFormsUI.Controladores.UsuariosControl.resources
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\obj\Debug\WindowsFormsUI.Ventanas.VentanaAjustes.resources
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\obj\Debug\WindowsFormsUI.Ventanas.VentanaEditAjustes.resources
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\obj\Debug\WindowsFormsUI.Ventanas.VentanaInsertarUsuario.resources
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\obj\Debug\WindowsFormsUI.Ventanas.VentanaViewProducto.resources
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\obj\Debug\WindowsFormsUI.Controladores.AdapterAjuster.resources
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\obj\Debug\WindowsFormsUI.Controladores.pnCard.resources
+E:\2_dam\Interfaces\GameOverStore\WindowsFormsUI\obj\Debug\WindowsFormsUI.Login.VentanaLogin.resources

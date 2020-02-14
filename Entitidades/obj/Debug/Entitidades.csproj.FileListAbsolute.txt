@@ -1,0 +1,43 @@
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Entitidades\bin\Debug\Entitidades.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Entitidades\bin\Debug\Entitidades.pdb
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Entitidades\bin\Debug\Nucleo.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Entitidades\bin\Debug\Dapper.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Entitidades\bin\Debug\Nucleo.pdb
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Entitidades\bin\Debug\Dapper.xml
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Entitidades\obj\Debug\Entitidades.csprojAssemblyReference.cache
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Entitidades\obj\Debug\Entitidades.csproj.CoreCompileInputs.cache
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Entitidades\obj\Debug\Entitidades.csproj.CopyComplete
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Entitidades\obj\Debug\Entitidades.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Entitidades\obj\Debug\Entitidades.pdb
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Entitidades\bin\Debug\DapperExtensions.dll
+C:\Users\Gerardo\source\repos\EjemploAplicacion\Entitidades\bin\Debug\DapperExtensions.pdb
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Entitidades\obj\Debug\Entitidades.csprojResolveAssemblyReference.cache
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Entitidades\obj\Debug\Entitidades.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Entitidades\obj\Debug\Entitidades.pdb
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Entitidades\bin\Debug\Entitidades.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Entitidades\bin\Debug\Entitidades.pdb
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Entitidades\bin\Debug\Nucleo.dll
+C:\Users\DAM2_Profesor\Desktop\EjemploAplicacion\Entitidades\bin\Debug\Nucleo.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Entitidades\bin\Debug\Entitidades.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Entitidades\bin\Debug\Entitidades.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Entitidades\bin\Debug\Nucleo.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Entitidades\bin\Debug\Nucleo.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Entitidades\obj\Debug\Entitidades.csprojResolveAssemblyReference.cache
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Entitidades\obj\Debug\Entitidades.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Entitidades\obj\Debug\Entitidades.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Entitidades\bin\Debug\DapperExtensions.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Entitidades\bin\Debug\Dapper.dll
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Entitidades\bin\Debug\DapperExtensions.pdb
+D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Entitidades\bin\Debug\Dapper.xml
+E:\2_dam\Interfaces\GameOverStore\Entitidades\bin\Debug\Entitidades.dll
+E:\2_dam\Interfaces\GameOverStore\Entitidades\bin\Debug\Entitidades.pdb
+E:\2_dam\Interfaces\GameOverStore\Entitidades\bin\Debug\Nucleo.dll
+E:\2_dam\Interfaces\GameOverStore\Entitidades\bin\Debug\DapperExtensions.dll
+E:\2_dam\Interfaces\GameOverStore\Entitidades\bin\Debug\Dapper.dll
+E:\2_dam\Interfaces\GameOverStore\Entitidades\bin\Debug\Nucleo.pdb
+E:\2_dam\Interfaces\GameOverStore\Entitidades\bin\Debug\DapperExtensions.pdb
+E:\2_dam\Interfaces\GameOverStore\Entitidades\bin\Debug\Dapper.xml
+E:\2_dam\Interfaces\GameOverStore\Entitidades\obj\Debug\Entitidades.csprojAssemblyReference.cache
+E:\2_dam\Interfaces\GameOverStore\Entitidades\obj\Debug\Entitidades.csproj.CopyComplete
+E:\2_dam\Interfaces\GameOverStore\Entitidades\obj\Debug\Entitidades.dll
+E:\2_dam\Interfaces\GameOverStore\Entitidades\obj\Debug\Entitidades.pdb

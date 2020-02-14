@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8FB46337-C19B-40FF-81DA-4A2575DCAB15}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsUI</RootNamespace>
+    <AssemblyName>WindowsFormsUI</AssemblyName>
+    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Ninject, Version=3.3.4.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ninject.3.3.4\lib\net45\Ninject.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CompositionRoot.cs" />
+    <Compile Include="Controladores\AdapterAjuster.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controladores\AdapterAjuster.Designer.cs">
+      <DependentUpon>AdapterAjuster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controladores\pnCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controladores\pnCard.Designer.cs">
+      <DependentUpon>pnCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controladores\ProductoAdapterControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controladores\ProductoAdapterControl.Designer.cs">
+      <DependentUpon>ProductoAdapterControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controladores\ProductosCardControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controladores\ProductosCardControl.Designer.cs">
+      <DependentUpon>ProductosCardControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controladores\UsuariosControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controladores\UsuariosControl.Designer.cs">
+      <DependentUpon>UsuariosControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Eventos\Validar.cs" />
+    <Compile Include="Login\VentanaLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\VentanaLogin.Designer.cs">
+      <DependentUpon>VentanaLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="System\Windows\Forms\PictureHover.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="System\Windows\Forms\AlertPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="System\Windows\Forms\HintText.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Ventanas\VentanaAjustes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\VentanaAjustes.Designer.cs">
+      <DependentUpon>VentanaAjustes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\VentanaEditAjustes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\VentanaEditAjustes.Designer.cs">
+      <DependentUpon>VentanaEditAjustes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\VentanaInsertarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\VentanaInsertarProducto.Designer.cs">
+      <DependentUpon>VentanaInsertarProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\VentanaInsertarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\VentanaInsertarUsuario.Designer.cs">
+      <DependentUpon>VentanaInsertarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\VentanaInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\VentanaInventario.Designer.cs">
+      <DependentUpon>VentanaInventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\VentanaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\VentanaPrincipal.Designer.cs">
+      <DependentUpon>VentanaPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\VentanaViewProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\VentanaViewProducto.Designer.cs">
+      <DependentUpon>VentanaViewProducto.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Controladores\AdapterAjuster.resx">
+      <DependentUpon>AdapterAjuster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controladores\pnCard.resx">
+      <DependentUpon>pnCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controladores\ProductoAdapterControl.resx">
+      <DependentUpon>ProductoAdapterControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controladores\ProductosCardControl.resx">
+      <DependentUpon>ProductosCardControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controladores\UsuariosControl.resx">
+      <DependentUpon>UsuariosControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\VentanaLogin.resx">
+      <DependentUpon>VentanaLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\VentanaAjustes.resx">
+      <DependentUpon>VentanaAjustes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\VentanaEditAjustes.resx">
+      <DependentUpon>VentanaEditAjustes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\VentanaInsertarProducto.resx">
+      <DependentUpon>VentanaInsertarProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\VentanaInsertarUsuario.resx">
+      <DependentUpon>VentanaInsertarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\VentanaInventario.resx">
+      <DependentUpon>VentanaInventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\VentanaPrincipal.resx">
+      <DependentUpon>VentanaPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\VentanaViewProducto.resx">
+      <DependentUpon>VentanaViewProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="bin\Debug\Negocios.dll.config" />
+    <None Include="bin\Debug\WindowsFormsUI.exe.config" />
+    <None Include="bin\Debug\WindowsFormsUI.vshost.exe.config" />
+    <None Include="bin\Debug\WindowsFormsUI.vshost.exe.manifest" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entitidades\Entidades.csproj">
+      <Project>{2f552895-df81-4a41-a56d-a3c6f7d71186}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Negocios\Negocios.csproj">
+      <Project>{d56e7805-b12a-4c8c-91cc-f7c8679eccac}</Project>
+      <Name>Negocios</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Nucleo\Nucleo.csproj">
+      <Project>{f176aff7-d247-4e54-9f1b-5c620f6f1e2b}</Project>
+      <Name>Nucleo</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="ShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\de\" />
+    <Folder Include="bin\Debug\es\" />
+    <Folder Include="bin\Debug\fr\" />
+    <Folder Include="bin\Debug\it\" />
+    <Folder Include="bin\Debug\ja\" />
+    <Folder Include="bin\Debug\ko\" />
+    <Folder Include="bin\Debug\pt\" />
+    <Folder Include="bin\Debug\ru\" />
+    <Folder Include="bin\Debug\SqlServerTypes\x64\" />
+    <Folder Include="bin\Debug\SqlServerTypes\x86\" />
+    <Folder Include="bin\Debug\zh-CHS\" />
+    <Folder Include="bin\Debug\zh-CHT\" />
+    <Folder Include="bin\Debug\_Imagenes\_Productos\" />
+    <Folder Include="bin\Release\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\AccesoDatos.dll" />
+    <Content Include="bin\Debug\AccesoDatos.pdb" />
+    <Content Include="bin\Debug\AxInterop.ShockwaveFlashObjects.dll" />
+    <Content Include="bin\Debug\Dapper.dll" />
+    <Content Include="bin\Debug\Dapper.xml" />
+    <Content Include="bin\Debug\DapperExtensions.dll" />
+    <Content Include="bin\Debug\DapperExtensions.pdb" />
+    <Content Include="bin\Debug\datos\Categorias.txt" />
+    <Content Include="bin\Debug\datos\Usuarios.txt" />
+    <Content Include="bin\Debug\Entitidades.dll" />
+    <Content Include="bin\Debug\Entitidades.pdb" />
+    <Content Include="bin\Debug\EntityFramework.dll" />
+    <Content Include="bin\Debug\EntityFramework.xml" />
+    <Content Include="bin\Debug\Interop.ShockwaveFlashObjects.dll" />
+    <Content Include="bin\Debug\LinqKit.dll" />
+    <Content Include="bin\Debug\LinqKit.xml" />
+    <Content Include="bin\Debug\Negocios.dll" />
+    <Content Include="bin\Debug\Negocios.pdb" />
+    <Content Include="bin\Debug\Ninject.dll" />
+    <Content Include="bin\Debug\Ninject.xml" />
+    <Content Include="bin\Debug\Nucleo.dll" />
+    <Content Include="bin\Debug\Nucleo.pdb" />
+    <Content Include="bin\Debug\WindowsFormsUI.exe" />
+    <Content Include="bin\Debug\WindowsFormsUI.pdb" />
+    <Content Include="bin\Debug\WindowsFormsUI.vshost.exe" />
+    <Content Include="bin\Debug\_Imagenes\Iconos\alert.png" />
+    <Content Include="bin\Debug\_Imagenes\Iconos\corfirmed.png" />
+    <Content Include="bin\Debug\_Imagenes\Iconos\imageNotFound.png" />
+    <None Include="Resources\logo1.png" />
+    <None Include="Resources\logo.png" />
+    <None Include="Resources\hide1.png" />
+    <None Include="Resources\eye.png" />
+    <None Include="Resources\hide.png" />
+    <None Include="Resources\translation.png" />
+    <None Include="Resources\joystick.png" />
+    <None Include="Resources\age.png" />
+    <None Include="Resources\programming.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
