@@ -10,8 +10,7 @@ namespace Entitidades.Concretas
 {
     public class Socios :Personas,IEntidad ,IEquatable<Socios>
     { 
-        public string Codigo { get; set; }
-        public string NickName { get; set; }
+    
         public string Dni { get; set; }
         public Decimal Descuento { get; set; }     
 
@@ -30,14 +29,9 @@ namespace Entitidades.Concretas
 
         public bool Equals(Socios other)
         {
-            if (other == null)
-                return false;
-
-            if (this.NickName == other.NickName)
-                return true;
-            else
-                return false;
+            throw new NotImplementedException();
         }
+
         public override int GetHashCode()
         {
             return this.Email.GetHashCode();

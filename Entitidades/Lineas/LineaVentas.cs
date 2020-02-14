@@ -15,12 +15,32 @@ namespace Entitidades.Lineas
         public int Cantidad { get; set; }
         public Decimal Precio { get; set; }
 
-       /* public LineaVentas(Productos productos,int Cantidad)
+        public override bool Equals(Object obj)
         {
-            this.Productos = productos;
-            this.Cantidad = Cantidad;
-            this.Precio = productos.PrecioVenta * Cantidad;
-        }*/
-        
+            if ((obj == null) || !this.GetType().Equals(obj.GetType()))
+            {
+                return false;
+            }
+            else
+            {
+                LineaVentas p = (LineaVentas)obj;
+                return (Productos == p.Productos);
+            }
+        }
+        public Decimal GetPrecioTotal()
+        {
+            return Cantidad * Precio;
+        }
+        public LineaVentas GetLineaForProduto(List<LineaVentas> lineas) 
+        {
+            foreach(LineaVentas linea in lineas)
+            {
+                if(linea.Productos == Productos)
+                {
+                    return linea;
+                }
+            }
+            return null;
+        }
     }
 }

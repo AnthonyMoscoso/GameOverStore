@@ -15,8 +15,8 @@ namespace AccesoDatos.Concretas.Dapper.Compuestas
 
         public DapPedidosDal() : base(
             tableName: "Pedidos",
-            colums: "Id,Id_Usuario,FechaPedido,Pagado",
-            parameters: "@Id,@Id_Usuario ,@FechaPedido ,@Pagado")
+            colums: "Id_Usuario,FechaPedido,Pagado",
+            parameters: "@Id_Usuario ,@FechaPedido ,@Pagado")
         {
 
         }

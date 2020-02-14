@@ -14,8 +14,8 @@ namespace AccesoDatos.Concretas.Dapper.Simples
     {
         public DapIdiomasDal() : base(
             tableName: "Idiomas",
-            colums: "Id,Nombre,Imagen",
-            parameters: "@Id,@Nombre,@Imagen")
+            colums: "Nombre,Imagen",
+            parameters: "@Nombre,@Imagen")
         {
 
         }

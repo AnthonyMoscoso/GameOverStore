@@ -18,8 +18,8 @@ namespace AccesoDatos.Concretas.Dapper.Compuestas
         
         public DapProductosDal() : base(
             tableName: "Productos",
-            colums: "Nombre,Descripcion,Introduccion,Clasificacion_id,Fecha,Desarrolladora_Id,Precio_Compra,Precio_Venta,Imagen_Vertical,Imagen_Horizontal,Imagen_Logo,Descuento,Url,Multijugador",
-            parameters: "@Nombre,@Descripcion,@Introduccion,@Clasificacion_id,@Fecha,@Desarrolladora_Id,@Precio_Compra,@Precio_Venta,@Imagen_Vertical,@Imagen_Horizontal,@Imagen_Logo,@Descuento,@Url,@Multijugador")
+            colums: "Nombre,Descripcion,Introduccion,Clasificacion_id,Fecha,Desarrolladora_Id,Precio_Compra,Precio_Venta,Imagen_Vertical,Imagen_Horizontal,Imagen_Logo,Descuento,Url,Multijugador,Cantidad_Inventario",
+            parameters: "@Nombre,@Descripcion,@Introduccion,@Clasificacion_id,@Fecha,@Desarrolladora_Id,@Precio_Compra,@Precio_Venta,@Imagen_Vertical,@Imagen_Horizontal,@Imagen_Logo,@Descuento,@Url,@Multijugador,@Cantidad_Inventario")
         {
 
         }
@@ -46,7 +46,7 @@ namespace AccesoDatos.Concretas.Dapper.Compuestas
                 {
                     connection.Execute(sql2, new { Id_Productos = addedEntity.Id, Id_Generos = i.Id });
                 }
-                string sql3 = "INSERT INTO ProductoPlataformas (id_Producto,id_Plataformas) Values (@id_Producto,@id_Plataformas);";
+                string sql3 = "INSERT INTO ProductoPlataformas (id_Productos,id_Plataformas) Values (@id_Producto,@id_Plataformas);";
                 //debes introducir los idiomas
                 foreach (Plataformas i in plataformas)
                 {

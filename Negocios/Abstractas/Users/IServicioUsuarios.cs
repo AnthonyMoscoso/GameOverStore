@@ -10,5 +10,6 @@ namespace Negocios.Abstractas.Users
 {
     public interface IServicioUsuarios : IServicio<Usuarios>
     {
+        List<Usuarios>GetAllUsuarios();
     }
 }

@@ -52,6 +52,7 @@ namespace Entitidades.Concretas
         public List<Generos> Generos { get; set; }
 
         public string Url { get; set; }
+        public int Cantidad_Inventario { get; set; }
         public override bool Equals(Object obj)
         {
             if ((obj == null) || !this.GetType().Equals(obj.GetType()))

@@ -21,6 +21,7 @@ using Negocios.Concretas.Lineas;
 using Negocios.Concretas.Simples;
 using Negocios.Concretas.Users;
 using Ninject.Modules;
+using Nucleo.Utilidades.abstracta;
 using Nucleo.Utilidades.Abstracta;
 using Nucleo.Utilidades.Concreta;
 using System;
@@ -89,6 +90,7 @@ namespace Negocios.ResolverDependencias.Ninject
 
 
             Bind<IServicioCrypto>().To<CryptoAes>().InSingletonScope();
+            Bind<IEnviarCorreo>().To<CorreoSmtp>().InSingletonScope();
 
         }
     }

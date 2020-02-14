@@ -14,14 +14,14 @@ namespace AccesoDatos.Concretas.Dapper.Simples
     {
         public DapPlataformasDal() : base(
             tableName: "Plataformas",
-            colums: "Id,Nombre,Imagen",
-            parameters: "@Id,@Nombre,@Imagen")
+            colums: "Nombre,Imagen",
+            parameters: "@Nombre,@Imagen")
         {
 
         }
         public List<Plataformas> GetPlataformasByIdProducto(int Id)
         {
-            var sql = " select * from Generos WHERE Generos.Id  in (select ProductoGeneros.Id_Generos from ProductoGeneros where ProductoGeneros.id_Productos = @id );";
+            var sql = " select * from Plataformas WHERE Plataformas.Id  in (select ProductoPlataformas.Id_Plataformas from ProductoPlataformas where ProductoPlataformas.id_Productos = @id );";
             List<Plataformas> plataformas = connection.Query<Plataformas>(sql, new { id = Id }).ToList();
             return plataformas;
         }

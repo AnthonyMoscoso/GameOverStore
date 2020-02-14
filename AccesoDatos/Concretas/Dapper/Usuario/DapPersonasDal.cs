@@ -13,10 +13,11 @@ namespace AccesoDatos.Concretas.Dapper.Usuario
     {
         public DapPersonasDal() : base(
             tableName: "Persona",
-            colums: "Id,Nombre,Apellido,Email,Contraseña,Telefono,Imagen,Tipo",
-            parameters: "@Id,@Nombre,@Apellido,@Email,@Contraseña,@Telefono,@Imagen,@Tipo")
+            colums: "Nombre,Apellido,Email,Contraseña,Telefono,Imagen,Tipo",
+            parameters: "@Nombre,@Apellido,@Email,@Contraseña,@Telefono,@Imagen,@Tipo")
         {
 
         }
+    
     }
 }

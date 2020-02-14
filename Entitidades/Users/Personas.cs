@@ -21,6 +21,7 @@ namespace Entitidades.Users
         {
             Usuario,Socio
         }
+        public Tipo tipo { get; set; }
 
     }
 }

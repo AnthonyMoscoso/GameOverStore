@@ -40,7 +40,10 @@
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Web" />
     <Reference Include="System.Windows.Forms.DataVisualization" />
     <Reference Include="System.Xaml" />
     <Reference Include="System.Xml.Linq" />
@@ -56,36 +59,105 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CompositionRoot.cs" />
-    <Compile Include="Controladores\AdapterAjuster.cs">
+    <Compile Include="Eventos\ListaColores.cs" />
+    <Compile Include="Eventos\Movement.cs" />
+    <Compile Include="Login\VentanaRecuperarContreseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\VentanaRecuperarContreseña.Designer.cs">
+      <DependentUpon>VentanaRecuperarContreseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\VentanaSending.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\VentanaSending.Designer.cs">
+      <DependentUpon>VentanaSending.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Controladores\AdapterView\AdapterAjuster.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Controladores\AdapterAjuster.Designer.cs">
+    <Compile Include="Ventanas\Controladores\AdapterView\AdapterAjuster.Designer.cs">
       <DependentUpon>AdapterAjuster.cs</DependentUpon>
     </Compile>
-    <Compile Include="Controladores\pnCard.cs">
+    <Compile Include="Ventanas\Controladores\AdapterView\AdapterViewLineaVenta.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Controladores\pnCard.Designer.cs">
+    <Compile Include="Ventanas\Controladores\AdapterView\AdapterViewLineaVenta.Designer.cs">
+      <DependentUpon>AdapterViewLineaVenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\Controladores\AdapterView\AdapterViewPersonas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ventanas\Controladores\AdapterView\AdapterViewPersonas.Designer.cs">
+      <DependentUpon>AdapterViewPersonas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\_VentanasVentas\VentanaPago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\_VentanasVentas\VentanaPago.Designer.cs">
+      <DependentUpon>VentanaPago.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\_VentanasVentas\VentanaVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\_VentanasVentas\VentanaVenta.Designer.cs">
+      <DependentUpon>VentanaVenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\_Componentes\ButtonNumPaginate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ventanas\_Componentes\ButtonNumPaginate.Designer.cs">
+      <DependentUpon>ButtonNumPaginate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\_Componentes\CardAjustes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ventanas\_Componentes\CardAjustes.Designer.cs">
+      <DependentUpon>CardAjustes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\_Componentes\FomrPaginador.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ventanas\_Componentes\FomrPaginador.Designer.cs">
+      <DependentUpon>FomrPaginador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\_Componentes\PassWordTxt.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ventanas\_Componentes\PassWordTxt.Designer.cs">
+      <DependentUpon>PassWordTxt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\_Componentes\PnBusqueda.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ventanas\_Componentes\PnBusqueda.Designer.cs">
+      <DependentUpon>PnBusqueda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\_Componentes\pnCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ventanas\_Componentes\pnCard.Designer.cs">
       <DependentUpon>pnCard.cs</DependentUpon>
     </Compile>
-    <Compile Include="Controladores\ProductoAdapterControl.cs">
+    <Compile Include="Ventanas\Controladores\AdapterView\AdapterViewProductos.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Controladores\ProductoAdapterControl.Designer.cs">
-      <DependentUpon>ProductoAdapterControl.cs</DependentUpon>
+    <Compile Include="Ventanas\Controladores\AdapterView\AdapterViewProductos.Designer.cs">
+      <DependentUpon>AdapterViewProductos.cs</DependentUpon>
     </Compile>
-    <Compile Include="Controladores\ProductosCardControl.cs">
+    <Compile Include="Ventanas\Controladores\CardView\CardViewProductos.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Controladores\ProductosCardControl.Designer.cs">
-      <DependentUpon>ProductosCardControl.cs</DependentUpon>
+    <Compile Include="Ventanas\Controladores\CardView\CardViewProductos.Designer.cs">
+      <DependentUpon>CardViewProductos.cs</DependentUpon>
     </Compile>
-    <Compile Include="Controladores\UsuariosControl.cs">
+    <Compile Include="Ventanas\Controladores\CardView\CardViewPersona.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Controladores\UsuariosControl.Designer.cs">
-      <DependentUpon>UsuariosControl.cs</DependentUpon>
+    <Compile Include="Ventanas\Controladores\CardView\CardViewPersona.Designer.cs">
+      <DependentUpon>CardViewPersona.cs</DependentUpon>
     </Compile>
+    <Compile Include="Eventos\ImagenControls.cs" />
     <Compile Include="Eventos\Validar.cs" />
     <Compile Include="Login\VentanaLogin.cs">
       <SubType>Form</SubType>
@@ -93,10 +165,19 @@
     <Compile Include="Login\VentanaLogin.Designer.cs">
       <DependentUpon>VentanaLogin.cs</DependentUpon>
     </Compile>
+    <Compile Include="Login\VentanaRegisterSocio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\VentanaRegisterSocio.Designer.cs">
+      <DependentUpon>VentanaRegisterSocio.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="System\Windows\Forms\ButtonHover.cs">
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="System\Windows\Forms\PictureHover.cs">
       <SubType>Component</SubType>
@@ -107,12 +188,6 @@
     <Compile Include="Ventanas\Form2.Designer.cs">
       <DependentUpon>Form2.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form1.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="System\Windows\Forms\AlertPictureBox.cs">
@@ -121,34 +196,46 @@
     <Compile Include="System\Windows\Forms\HintText.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Ventanas\VentanaAjustes.cs">
+    <Compile Include="Ventanas\VentanasAjustes\VentanaAjustes.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Ventanas\VentanaAjustes.Designer.cs">
+    <Compile Include="Ventanas\VentanasAjustes\VentanaAjustes.Designer.cs">
       <DependentUpon>VentanaAjustes.cs</DependentUpon>
     </Compile>
-    <Compile Include="Ventanas\VentanaEditAjustes.cs">
+    <Compile Include="Ventanas\VentanasAjustes\VentanaEditAjustes.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Ventanas\VentanaEditAjustes.Designer.cs">
+    <Compile Include="Ventanas\VentanasAjustes\VentanaEditAjustes.Designer.cs">
       <DependentUpon>VentanaEditAjustes.cs</DependentUpon>
     </Compile>
-    <Compile Include="Ventanas\VentanaInsertarProducto.cs">
+    <Compile Include="Ventanas\VentanasPersonas\VentanaGestionPersonas.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Ventanas\VentanaInsertarProducto.Designer.cs">
+    <Compile Include="Ventanas\VentanasPersonas\VentanaGestionPersonas.Designer.cs">
+      <DependentUpon>VentanaGestionPersonas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\VentanasProductos\FichaProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\VentanasProductos\FichaProducto.Designer.cs">
+      <DependentUpon>FichaProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\VentanasProductos\VentanaInsertarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\VentanasProductos\VentanaInsertarProducto.Designer.cs">
       <DependentUpon>VentanaInsertarProducto.cs</DependentUpon>
     </Compile>
-    <Compile Include="Ventanas\VentanaInsertarUsuario.cs">
+    <Compile Include="Ventanas\VentanasPersonas\VentanaInsertarUsuario.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Ventanas\VentanaInsertarUsuario.Designer.cs">
+    <Compile Include="Ventanas\VentanasPersonas\VentanaInsertarUsuario.Designer.cs">
       <DependentUpon>VentanaInsertarUsuario.cs</DependentUpon>
     </Compile>
-    <Compile Include="Ventanas\VentanaInventario.cs">
+    <Compile Include="Ventanas\VentanasProductos\VentanaInventario.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Ventanas\VentanaInventario.Designer.cs">
+    <Compile Include="Ventanas\VentanasProductos\VentanaInventario.Designer.cs">
       <DependentUpon>VentanaInventario.cs</DependentUpon>
     </Compile>
     <Compile Include="Ventanas\VentanaPrincipal.cs">
@@ -157,61 +244,118 @@
     <Compile Include="Ventanas\VentanaPrincipal.Designer.cs">
       <DependentUpon>VentanaPrincipal.cs</DependentUpon>
     </Compile>
-    <Compile Include="Ventanas\VentanaViewProducto.cs">
+    <Compile Include="Ventanas\VentanasProductos\VentanaViewProducto.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Ventanas\VentanaViewProducto.Designer.cs">
+    <Compile Include="Ventanas\VentanasProductos\VentanaViewProducto.Designer.cs">
       <DependentUpon>VentanaViewProducto.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Controladores\AdapterAjuster.resx">
+    <Compile Include="Ventanas\_Componentes\DataBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ventanas\_Componentes\DataBox.Designer.cs">
+      <DependentUpon>DataBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventanas\_FICHAS\_FichaPersona.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventanas\_FICHAS\_FichaPersona.Designer.cs">
+      <DependentUpon>_FichaPersona.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Login\VentanaRecuperarContreseña.resx">
+      <DependentUpon>VentanaRecuperarContreseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\VentanaSending.resx">
+      <DependentUpon>VentanaSending.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Controladores\AdapterView\AdapterAjuster.resx">
       <DependentUpon>AdapterAjuster.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Controladores\pnCard.resx">
+    <EmbeddedResource Include="Ventanas\Controladores\AdapterView\AdapterViewLineaVenta.resx">
+      <DependentUpon>AdapterViewLineaVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\Controladores\AdapterView\AdapterViewPersonas.resx">
+      <DependentUpon>AdapterViewPersonas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\_VentanasVentas\VentanaPago.resx">
+      <DependentUpon>VentanaPago.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\_VentanasVentas\VentanaVenta.resx">
+      <DependentUpon>VentanaVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\_Componentes\ButtonNumPaginate.resx">
+      <DependentUpon>ButtonNumPaginate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\_Componentes\CardAjustes.resx">
+      <DependentUpon>CardAjustes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\_Componentes\FomrPaginador.resx">
+      <DependentUpon>FomrPaginador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\_Componentes\PassWordTxt.resx">
+      <DependentUpon>PassWordTxt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\_Componentes\PnBusqueda.resx">
+      <DependentUpon>PnBusqueda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\_Componentes\pnCard.resx">
       <DependentUpon>pnCard.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Controladores\ProductoAdapterControl.resx">
-      <DependentUpon>ProductoAdapterControl.cs</DependentUpon>
+    <EmbeddedResource Include="Ventanas\Controladores\AdapterView\AdapterViewProductos.resx">
+      <DependentUpon>AdapterViewProductos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Controladores\ProductosCardControl.resx">
-      <DependentUpon>ProductosCardControl.cs</DependentUpon>
+    <EmbeddedResource Include="Ventanas\Controladores\CardView\CardViewProductos.resx">
+      <DependentUpon>CardViewProductos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Controladores\UsuariosControl.resx">
-      <DependentUpon>UsuariosControl.cs</DependentUpon>
+    <EmbeddedResource Include="Ventanas\Controladores\CardView\CardViewPersona.resx">
+      <DependentUpon>CardViewPersona.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Login\VentanaLogin.resx">
       <DependentUpon>VentanaLogin.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Login\VentanaRegisterSocio.resx">
+      <DependentUpon>VentanaRegisterSocio.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Ventanas\Form2.resx">
       <DependentUpon>Form2.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="Ventanas\VentanaAjustes.resx">
+    <EmbeddedResource Include="Ventanas\VentanasAjustes\VentanaAjustes.resx">
       <DependentUpon>VentanaAjustes.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Ventanas\VentanaEditAjustes.resx">
+    <EmbeddedResource Include="Ventanas\VentanasAjustes\VentanaEditAjustes.resx">
       <DependentUpon>VentanaEditAjustes.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Ventanas\VentanaInsertarProducto.resx">
+    <EmbeddedResource Include="Ventanas\VentanasPersonas\VentanaGestionPersonas.resx">
+      <DependentUpon>VentanaGestionPersonas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\VentanasProductos\FichaProducto.resx">
+      <DependentUpon>FichaProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\VentanasProductos\VentanaInsertarProducto.resx">
       <DependentUpon>VentanaInsertarProducto.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Ventanas\VentanaInsertarUsuario.resx">
+    <EmbeddedResource Include="Ventanas\VentanasPersonas\VentanaInsertarUsuario.resx">
       <DependentUpon>VentanaInsertarUsuario.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Ventanas\VentanaInventario.resx">
+    <EmbeddedResource Include="Ventanas\VentanasProductos\VentanaInventario.resx">
       <DependentUpon>VentanaInventario.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Ventanas\VentanaPrincipal.resx">
       <DependentUpon>VentanaPrincipal.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Ventanas\VentanaViewProducto.resx">
+    <EmbeddedResource Include="Ventanas\VentanasProductos\VentanaViewProducto.resx">
       <DependentUpon>VentanaViewProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\_Componentes\DataBox.resx">
+      <DependentUpon>DataBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventanas\_FICHAS\_FichaPersona.resx">
+      <DependentUpon>_FichaPersona.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="bin\Debug\Negocios.dll.config" />
     <None Include="bin\Debug\WindowsFormsUI.exe.config" />
@@ -254,8 +398,25 @@
       <WrapperTool>aximp</WrapperTool>
       <Isolated>False</Isolated>
     </COMReference>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
     <COMReference Include="ShockwaveFlashObjects">
       <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
       <VersionMajor>1</VersionMajor>
       <VersionMinor>0</VersionMinor>
       <Lcid>0</Lcid>
@@ -277,6 +438,8 @@
     <Folder Include="bin\Debug\SqlServerTypes\x86\" />
     <Folder Include="bin\Debug\zh-CHS\" />
     <Folder Include="bin\Debug\zh-CHT\" />
+    <Folder Include="bin\Debug\_Imagenes\_Ajustes\" />
+    <Folder Include="bin\Debug\_Imagenes\_Personas\" />
     <Folder Include="bin\Debug\_Imagenes\_Productos\" />
     <Folder Include="bin\Release\" />
   </ItemGroup>
@@ -309,15 +472,30 @@
     <Content Include="bin\Debug\_Imagenes\Iconos\alert.png" />
     <Content Include="bin\Debug\_Imagenes\Iconos\corfirmed.png" />
     <Content Include="bin\Debug\_Imagenes\Iconos\imageNotFound.png" />
-    <None Include="Resources\logo1.png" />
-    <None Include="Resources\logo.png" />
-    <None Include="Resources\hide1.png" />
-    <None Include="Resources\eye.png" />
-    <None Include="Resources\hide.png" />
+    <None Include="Resources\unnamed.gif" />
+    <None Include="Resources\bin.png" />
+    <None Include="Resources\calendar.png" />
+    <None Include="Resources\stop.png" />
+    <None Include="Resources\search.png" />
+    <None Include="Resources\pencil.png" />
+    <None Include="Resources\59517.jpg" />
+    <None Include="Resources\sword.png" />
     <None Include="Resources\translation.png" />
     <None Include="Resources\joystick.png" />
     <None Include="Resources\age.png" />
     <None Include="Resources\programming.png" />
+    <None Include="Resources\menu.png" />
+    <None Include="Resources\grid.png" />
+    <None Include="Resources\hide1.png" />
+    <None Include="Resources\mail.png" />
+    <None Include="Resources\call.png" />
+    <None Include="Resources\name.png" />
+    <None Include="Resources\eye1.png" />
+    <None Include="Resources\logo2.png" />
+    <None Include="Resources\logo1.png" />
+    <None Include="Resources\logo.png" />
+    <None Include="Resources\eye.png" />
+    <None Include="Resources\hide.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -68,6 +68,31 @@ D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Negocios\bin\Debug\DapperExt
 D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Negocios\bin\Debug\Dapper.dll
 D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Negocios\bin\Debug\DapperExtensions.pdb
 D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Negocios\bin\Debug\Dapper.xml
+H:\GameOverStore\Negocios\bin\Debug\Negocios.dll.config
+H:\GameOverStore\Negocios\bin\Debug\Negocios.dll
+H:\GameOverStore\Negocios\bin\Debug\Negocios.pdb
+H:\GameOverStore\Negocios\bin\Debug\AccesoDatos.dll
+H:\GameOverStore\Negocios\bin\Debug\Entitidades.dll
+H:\GameOverStore\Negocios\bin\Debug\EntityFramework.dll
+H:\GameOverStore\Negocios\bin\Debug\EntityFramework.SqlServer.dll
+H:\GameOverStore\Negocios\bin\Debug\LinqKit.dll
+H:\GameOverStore\Negocios\bin\Debug\Ninject.dll
+H:\GameOverStore\Negocios\bin\Debug\Nucleo.dll
+H:\GameOverStore\Negocios\bin\Debug\Dapper.dll
+H:\GameOverStore\Negocios\bin\Debug\DapperExtensions.dll
+H:\GameOverStore\Negocios\bin\Debug\AccesoDatos.pdb
+H:\GameOverStore\Negocios\bin\Debug\Entitidades.pdb
+H:\GameOverStore\Negocios\bin\Debug\Nucleo.pdb
+H:\GameOverStore\Negocios\bin\Debug\EntityFramework.xml
+H:\GameOverStore\Negocios\bin\Debug\EntityFramework.SqlServer.xml
+H:\GameOverStore\Negocios\bin\Debug\LinqKit.xml
+H:\GameOverStore\Negocios\bin\Debug\Ninject.xml
+H:\GameOverStore\Negocios\bin\Debug\Dapper.xml
+H:\GameOverStore\Negocios\bin\Debug\DapperExtensions.pdb
+H:\GameOverStore\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+H:\GameOverStore\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+H:\GameOverStore\Negocios\obj\Debug\Negocios.dll
+H:\GameOverStore\Negocios\obj\Debug\Negocios.pdb
 E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\Negocios.dll.config
 E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\Negocios.dll
 E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\Negocios.pdb
@@ -78,8 +103,8 @@ E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\EntityFramework.SqlServer.d
 E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\LinqKit.dll
 E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\Ninject.dll
 E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\Nucleo.dll
-E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\DapperExtensions.dll
 E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\Dapper.dll
+E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\DapperExtensions.dll
 E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\AccesoDatos.pdb
 E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\Entitidades.pdb
 E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\Nucleo.pdb
@@ -87,8 +112,8 @@ E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\EntityFramework.xml
 E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\EntityFramework.SqlServer.xml
 E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\LinqKit.xml
 E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\Ninject.xml
-E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\DapperExtensions.pdb
 E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\Dapper.xml
+E:\2_dam\Interfaces\GameOverStore\Negocios\bin\Debug\DapperExtensions.pdb
 E:\2_dam\Interfaces\GameOverStore\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
 E:\2_dam\Interfaces\GameOverStore\Negocios\obj\Debug\Negocios.csproj.CopyComplete
 E:\2_dam\Interfaces\GameOverStore\Negocios\obj\Debug\Negocios.dll

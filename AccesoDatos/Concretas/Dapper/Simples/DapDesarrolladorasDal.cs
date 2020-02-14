@@ -15,8 +15,8 @@ namespace AccesoDatos.Concretas.Dapper.Simples
     {
         public DapDesarrolladorasDal() : base(
             tableName: "Desarrolladoras",
-            colums: "Id,Nombre,Imagen",
-            parameters: "@Id,@Nombre,@Imagen")
+            colums: "Nombre,Imagen",
+            parameters: "@Nombre,@Imagen")
         {
 
         }

@@ -12,9 +12,15 @@ namespace Negocios.Concretas.Users
 {
     public class GestorPermisos : BaseServicio<Permisos>, IServicioPermisos
     {
+        IPermisosDal _permisosDal;
         public GestorPermisos(IPermisosDal PermisosDal) : base(PermisosDal)
         {
+            _permisosDal = PermisosDal;
+        }
 
+        public List<Permisos> GetPermisosByIdUsuario(int Id)
+        {
+            return _permisosDal.GetPermisosByIdUsuario(Id);
         }
     }
 }

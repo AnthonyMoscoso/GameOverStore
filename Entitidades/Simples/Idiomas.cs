@@ -41,5 +41,9 @@ namespace Entitidades.Concretas
         {
             return this.Nombre.GetHashCode();
         }
+        public override string ToString()
+        {
+            return Nombre;
+        }
     }
 }

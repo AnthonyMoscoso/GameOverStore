@@ -13,8 +13,8 @@ namespace AccesoDatos.Concretas.Dapper.Simples
     {
         public DapClasificacionesDal() : base(
             tableName: "Clasificaciones",
-            colums: "Id,Nombre,Valor,Imagen",
-            parameters: "@Id,@Nombre,@Valor,@Imagen")
+            colums: "Nombre,Valor,Imagen",
+            parameters: "@Nombre,@Valor,@Imagen")
         {
 
         }

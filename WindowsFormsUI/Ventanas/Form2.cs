@@ -21,15 +21,6 @@ namespace WindowsFormsUI
             InitializeComponent();
         }
 
-        private void Button1_Click(object sender, EventArgs e)
-        {
-            dataGridView1.ReadOnly = true;
-           dataGridView1.DataSource= _servicioArticulo.GetAll();
-        }
-
-        private void Form2_Load(object sender, EventArgs e)
-        {
-            
-        }
+     
     }
 }

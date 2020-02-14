@@ -11,6 +11,6 @@ namespace AccesoDatos.Abstractas
 {
     public interface IUsuarioDal : IRepositorioEntidad<Usuarios>
     {
-        
+         List<Usuarios> GetAllUsuarios();
     }
 }

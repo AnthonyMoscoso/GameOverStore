@@ -10,5 +10,6 @@ namespace Negocios.Abstractas.Users
 {
     public interface IServicioPermisos : IServicio<Permisos>
     {
+        List<Permisos> GetPermisosByIdUsuario(int Id);
     }
 }

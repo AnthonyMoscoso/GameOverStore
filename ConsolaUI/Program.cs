@@ -10,21 +10,22 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
+using WindowsFormsUI;
 
 namespace ConsolaUI
 {
     class Program
     {
 
-        static void Main(string[] args)
+        [STAThread]
+        static void Main()
         {
-            IKernel kernel = new StandardKernel(new ModuloNinject());
-            IServicioIdiomas _servicioIdiomas = kernel.Get<IServicioIdiomas>();
-            var a = _servicioIdiomas.GetAll("Nombre Like 'A%'","Nombre");
-      //      a = _servicioIdiomas.Get(x=>x.Nombre=="Ingles");
-            
-            Console.WriteLine(a.ToString());
-            Console.ReadKey();
+
+            CompositionRoot.Wire(new ModuloNinject());
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
         }
     }
 }

@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using WindowsFormsUI.Login;
 using WindowsFormsUI.Ventanas;
 
 namespace WindowsFormsUI
@@ -21,7 +22,7 @@ namespace WindowsFormsUI
             CompositionRoot.Wire(new ModuloNinject());
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(CompositionRoot.Resolve<VentanaPrincipal>());
+            Application.Run(CompositionRoot.Resolve<VentanaLogin>());
         }
     }
 }

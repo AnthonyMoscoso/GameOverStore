@@ -13,8 +13,8 @@ namespace AccesoDatos.Concretas.Dapper.Usuario
     {
         public DapSociosDal() : base(
             tableName: "Socios",
-            colums: "Id,Codigo,NickName,Dni,Descuento",
-            parameters: "@Id,@Codigo,@NickName,@Dni,@Descuento")
+            colums: "Id,Dni,Descuento",
+            parameters: "@Id,@Dni,@Descuento")
         {
 
         }

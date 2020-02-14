@@ -6,34 +6,30 @@ namespace System.Windows.Forms
 {
     internal class PictureHover : PictureBox
     {
-       
-        public Image ImageInicial
-        {
-            get; set;
-        }
+
+        public Image ImageInicial;
         public bool Hover { get; set; }
         public bool Clicked { get; set; }
+        public Padding MarginIn;
+
         public Image ImageHover{
             get;set;
             }
-        public Padding MarginInt { get; set; }
+        
         public Padding MargingOut { get; set; }
         public PictureHover()
         {
 
-
-            this.ImageInicial = this.Image;
-          
             this.MouseEnter += PictureHover_MouseEnter;
             this.MouseLeave += PictureHover_MouseLeave;
             this.MouseClick += PictureHover_MouseClick;
-       
-          
-         
             this.SizeMode = PictureBoxSizeMode.Zoom;
          
  
         }
+
+      
+     
 
         private void PictureHover_MouseClick(object sender, MouseEventArgs e)
         {
@@ -65,13 +61,13 @@ namespace System.Windows.Forms
                     this.Image = ImageInicial;
                    
                 }
-                if (MarginInt == null)
+                 if (MarginIn == null)
                 {
-                    this.Margin = new Padding(3);
+                    this.Margin = new Padding(6);
                 }
                 else
                 {
-                    this.Margin = MarginInt;
+                    this.Margin = MarginIn;
                 }
                 
                
@@ -82,17 +78,20 @@ namespace System.Windows.Forms
 
         private void PictureHover_MouseEnter(object sender, EventArgs e)
         {
-           
+            MarginIn = this.Margin;
+            if (ImageInicial == null)
+            {
+                this.ImageInicial = this.Image;
+            }
             if (Hover)
             {
                 if (ImageHover != null && !Clicked)
                 {
                     this.Image = ImageHover;
-                    
                 }
                 if (MargingOut == null)
                 {
-                    this.Margin = new Padding(6);
+                    this.Margin = new Padding(3);
                 }
                 else
                 {

@@ -55,6 +55,11 @@
     <Compile Include="AccesoDatos\Abstractas\IRepositorioEntidad.cs" />
     <Compile Include="AccesoDatos\Concretos\Dapper\DapBaseRepositorioEntitidad.cs" />
     <Compile Include="AccesoDatos\Concretos\Dapper\SqlConnectionExtensions.cs" />
+    <Compile Include="Utilidades\abstracta\IEnviarCorreo.cs" />
+    <Compile Include="Utilidades\abstracta\IPaginador.cs" />
+    <Compile Include="Utilidades\Concreta\CorreoSmtp.cs" />
+    <Compile Include="Utilidades\Concreta\HelperValidation.cs" />
+    <Compile Include="Utilidades\Concreta\Paginador.cs" />
     <Compile Include="Utilidades\DynamicLinq\Dynamic.cs" />
     <Compile Include="AccesoDatos\Concretos\Fichero\FileBaseRepositorioEntidad.cs" />
     <Compile Include="AccesoDatos\Concretos\Fichero\FileConnectionExtensions.cs" />

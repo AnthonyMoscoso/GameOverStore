@@ -13,8 +13,8 @@ namespace AccesoDatos.Concretas.Dapper.Compuestas
     {
         public DapReservasDal() : base(
             tableName: "Reservas",
-            colums: "Id,Id_Persona,Id_Usuario,Id_Producto,Id_Venta,Cantidad,Precio,FechaReserva",
-            parameters: "@Id,@Id_Persona,@Id_Usuario,@Id_Producto,@Id_Venta,@Cantidad,@Precio,@FechaReserva")
+            colums: "Id_Persona,Id_Usuario,Id_Producto,Id_Venta,Cantidad,Precio,FechaReserva",
+            parameters: "@Id_Persona,@Id_Usuario,@Id_Producto,@Id_Venta,@Cantidad,@Precio,@FechaReserva")
         {
 
         }

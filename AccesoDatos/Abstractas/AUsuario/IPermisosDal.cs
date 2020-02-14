@@ -10,5 +10,6 @@ namespace AccesoDatos.Abstractas.Simples
 {
     public interface IPermisosDal : IRepositorioEntidad<Permisos>
     {
+        List<Permisos> GetPermisosByIdUsuario(int Id);
     }
 }

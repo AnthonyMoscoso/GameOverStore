@@ -13,8 +13,8 @@ namespace AccesoDatos.Concretas.Dapper.Compuestas
     {
         public DapDevolucionesDal() : base(
             tableName: "Devoluciones",
-            colums: "Id,Id_LineaDeVenta,Cantidad,Id_Usuario,Id_Socio,FechaDevolucion",
-            parameters: "@Id,@IdLineaDeVenta,@Cantidad,@IdUsuario,@IdSocio,@FechaDevolucion")
+            colums: "Id_LineaDeVenta,Cantidad,Id_Usuario,Id_Socio,FechaDevolucion",
+            parameters: "@IdLineaDeVenta,@Cantidad,@IdUsuario,@IdSocio,@FechaDevolucion")
         {
 
         }

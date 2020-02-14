@@ -27,6 +27,16 @@ D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Nucleo\obj\Debug\Nucleo.cspr
 D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Nucleo\obj\Debug\Nucleo.dll
 D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Nucleo\obj\Debug\Nucleo.pdb
 D:\Gerardo\DI\ejemplos de código\EjemploAplicacion\Nucleo\bin\Debug\Dapper.xml
+H:\GameOverStore\Nucleo\bin\Debug\Nucleo.dll
+H:\GameOverStore\Nucleo\bin\Debug\Nucleo.pdb
+H:\GameOverStore\Nucleo\bin\Debug\Dapper.dll
+H:\GameOverStore\Nucleo\bin\Debug\DapperExtensions.dll
+H:\GameOverStore\Nucleo\bin\Debug\Dapper.xml
+H:\GameOverStore\Nucleo\bin\Debug\DapperExtensions.pdb
+H:\GameOverStore\Nucleo\obj\Debug\Nucleo.csprojAssemblyReference.cache
+H:\GameOverStore\Nucleo\obj\Debug\Nucleo.csproj.CopyComplete
+H:\GameOverStore\Nucleo\obj\Debug\Nucleo.dll
+H:\GameOverStore\Nucleo\obj\Debug\Nucleo.pdb
 E:\2_dam\Interfaces\GameOverStore\Nucleo\bin\Debug\Nucleo.dll
 E:\2_dam\Interfaces\GameOverStore\Nucleo\bin\Debug\Nucleo.pdb
 E:\2_dam\Interfaces\GameOverStore\Nucleo\bin\Debug\Dapper.dll

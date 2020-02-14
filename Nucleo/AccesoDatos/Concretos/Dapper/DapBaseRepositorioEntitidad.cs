@@ -34,12 +34,12 @@ namespace Nucleo.AccesoDatos.Concretos.Dapper
         private const string SELECT_ALL_QUERY = "SELECT * FROM {0}";
         private const string SELECT_FIRST_QUERY = "SELECT * FROM {0} WHERE [{0}].Id=@Id";
         private const string SELECT_CUSTOM_WHERE_QUERY = "SELECT * FROM {0} WHERE [{0}].{1}";
-        private const string SELECT_CUSTOM_ORDER_BY = "SELECT * FROM {0}  ORDER  BY {1}";
-        private const string SELECT_CUSTOM_WHERE_QUERY_ORDER_BY = "SELECT * FROM {0} WHERE {1} ORDER  BY {2}";
-        private const string SELECT_CUSTOM_WHERE_QUERY_PAGINATE = "SELECT * FROM {0}  ORDER  BY Id OFFSET {1} ROWS FETCH NEXT {2} ROWS ONLY";
-        private const string SELECT_CUSTOM_WHERE_QUERY_PAGINATE_FILTER = "SELECT * FROM {0} WHERE {1} ORDER BY Id OFFSET {2} ROWS FETCH NEXT {3} ROWS ONLY";
-        private const string SELECT_CUSTOM_WHERE_QUERY_PAGINATE_ORDER_BY = "SELECT * FROM {0}  ORDER  BY {3} I OFFSET {1} ROWS FETCH NEXT {2} ROWS ONLY";
-        private const string SELECT_CUSTOM_WHERE_QUERY_PAGINATE_FILTER_ORDER_BY = "SELECT * FROM {0} WHERE {1} ORDER  BY {4}  OFFSET {2} ROWS FETCH NEXT {3} ROWS ONLY";
+        private const string SELECT_ORDER_BY = "SELECT * FROM {0}  ORDER  BY {1}";
+        private const string SELECT_FILTER_ORDER = "SELECT * FROM {0} WHERE {1} ORDER  BY {2}";
+        private const string SELECT_ALL_PAGINATE = "SELECT * FROM {0}  ORDER  BY Id OFFSET {1} ROWS FETCH NEXT {2} ROWS ONLY";
+        private const string SELECT_FILTER_PAGINATE = "SELECT * FROM {0} WHERE {1} ORDER BY Id OFFSET {2} ROWS FETCH NEXT {3} ROWS ONLY";
+        private const string SELECT_ALL_ORDER_PAGINATE = "SELECT * FROM {0}  ORDER  BY {3} I OFFSET {1} ROWS FETCH NEXT {2} ROWS ONLY";
+        private const string SELECT_FILTER_ORDER_PAGINATE = "SELECT * FROM {0} WHERE {1} ORDER  BY {4}  OFFSET {2} ROWS FETCH NEXT {3} ROWS ONLY";
         private const string COUNT_QUERY = "SELECT COUNT(Id) FROM {0};";
 
         protected SqlConnection connection = new SqlConnection(new TContexto().CadenaConexion);
@@ -59,7 +59,8 @@ namespace Nucleo.AccesoDatos.Concretos.Dapper
 
         public int Delete(TEntidad entity)
         {
-            var affectedRow = connection.Execute(string.Format(DELETE_QUERY, TableName), entity);
+            var sql =string.Format(DELETE_QUERY, TableName);
+               var affectedRow = connection.Execute(sql,entity);
             return affectedRow;
         }
 
@@ -111,40 +112,40 @@ namespace Nucleo.AccesoDatos.Concretos.Dapper
 
         public List<TEntidad> GetPaginate(string filter, int OFFSET, int FETCH)
         {
-            var sql = string.Format(SELECT_CUSTOM_WHERE_QUERY_PAGINATE_FILTER, TableName, filter, OFFSET, FETCH);
+            var sql = string.Format(SELECT_FILTER_PAGINATE, TableName, filter, OFFSET, FETCH);
             var entity = connection.Query<TEntidad>(sql).ToList();
             return entity;
         }
         public List<TEntidad> GetPaginate(string filter, int OFFSET, int FETCH, string order)
         {
-            var sql = string.Format(SELECT_CUSTOM_WHERE_QUERY_PAGINATE_FILTER_ORDER_BY, TableName, filter, OFFSET, FETCH,order);
+            var sql = string.Format(SELECT_FILTER_ORDER_PAGINATE, TableName, filter, OFFSET, FETCH,order);
             var entity = connection.Query<TEntidad>(sql).ToList();
             return entity;
         }
 
         public List<TEntidad> GetPaginate(int OFFSET, int FETCH, string order)
         {
-            var sql = string.Format(SELECT_CUSTOM_WHERE_QUERY_PAGINATE_ORDER_BY, TableName,  OFFSET, FETCH,order);
+            var sql = string.Format(SELECT_ALL_ORDER_PAGINATE, TableName,  OFFSET, FETCH,order);
             var entity = connection.Query<TEntidad>(sql).ToList();
             return entity;
         }
 
         public List<TEntidad> GetPaginate(int OFFSET, int FETCH)
         {
-            var sql = string.Format(SELECT_CUSTOM_WHERE_QUERY_PAGINATE, TableName, OFFSET, FETCH);
+            var sql = string.Format(SELECT_ALL_PAGINATE, TableName, OFFSET, FETCH);
             var entity = connection.Query<TEntidad>(sql).ToList();
             return entity;
         }
         public List<TEntidad> GetAll(string filter, string order)
         {
-            var sql = string.Format(SELECT_CUSTOM_WHERE_QUERY_ORDER_BY, TableName, filter,order);
+            var sql = string.Format(SELECT_FILTER_ORDER, TableName, filter,order);
             var entity = connection.Query<TEntidad>(sql).ToList();
             return entity;
         }
 
         public List<TEntidad> GetAllOrderBy(string order)
         {
-            var sql = string.Format(SELECT_CUSTOM_ORDER_BY, TableName, order);
+            var sql = string.Format(SELECT_ORDER_BY, TableName, order);
             var entity = connection.Query<TEntidad>(sql).ToList();
             return entity;
         }

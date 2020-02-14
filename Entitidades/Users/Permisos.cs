@@ -10,7 +10,7 @@ namespace Entitidades.Concretas
     public class Permisos :BaseEntidad , IEntidad ,IEquatable<Permisos>
     {
         public int Id { get; set; }
-        public string Name { get; set; }
+        public string Nombre { get; set; }
 
         public override bool Equals(Object obj)
         {
@@ -21,7 +21,7 @@ namespace Entitidades.Concretas
             else
             {
                 Permisos p = (Permisos)obj;
-                return (Name == p.Name);
+                return (Id == p.Id);
             }
         }
 
@@ -30,14 +30,14 @@ namespace Entitidades.Concretas
             if (other == null)
                 return false;
 
-            if (this.Name == other.Name)
+            if (this.Nombre == other.Nombre)
                 return true;
             else
                 return false;
         }
         public override int GetHashCode()
         {
-            return this.Name.GetHashCode();
+            return this.Nombre.GetHashCode();
         }
     }
 }

@@ -164,6 +164,7 @@
             this.button3.TabIndex = 5;
             this.button3.Text = "CAJA";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button2
             // 
@@ -182,6 +183,7 @@
             this.button2.TabIndex = 4;
             this.button2.Text = "CAJA";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button1
             // 
@@ -286,6 +288,7 @@
             this.Name = "VentanaPrincipal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "VentanaPrincipal";
+            this.Load += new System.EventHandler(this.VentanaPrincipal_Load);
             this.MouseEnter += new System.EventHandler(this.VentanaPrincipal_MouseEnter);
             this.Resize += new System.EventHandler(this.VentanaPrincipal_Resize);
             this.pnTop.ResumeLayout(false);

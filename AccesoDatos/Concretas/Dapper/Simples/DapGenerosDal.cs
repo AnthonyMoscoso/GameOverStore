@@ -16,8 +16,8 @@ namespace AccesoDatos.Concretas.Dapper.Simples
        
         public DapGenerosDal() : base(
             tableName: "Generos",
-            colums: "Id,Nombre,Descripcion,Imagen",
-            parameters: "@Id,@Nombre,@Descripcion,@Imagen")
+            colums: "Nombre,Descripcion,Imagen",
+            parameters: "@Nombre,@Descripcion,@Imagen")
         {
 
         }

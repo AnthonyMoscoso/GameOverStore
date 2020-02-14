@@ -13,8 +13,8 @@ namespace AccesoDatos.Concretas.Dapper.Lineas
     {
         public DapLineaVentasDal() : base(
             tableName: "LineaVenta",
-            colums: "Id,Id_Producto,Id_Venta,Cantidad,Precio",
-            parameters: "@Id,@Id_Producto,@Id_Venta,@Cantidad,@Precio")
+            colums: "Id_Producto,Id_Venta,Cantidad,Precio",
+            parameters: "@Id_Producto,@Id_Venta,@Cantidad,@Precio")
         {
 
         }
